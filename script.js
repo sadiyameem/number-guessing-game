@@ -14,4 +14,15 @@ submit.addEventListener("click", checkGuess);
 function checkGuess() {
     const userValue = Number(guess.value);
     attempts++;
+
+    // Conditionals
+    if (userValue === randomNum) {
+        hint.textContent = "Congratulations, you guessed it!";
+    } else if (userValue < randomNum) {
+        hint.textContent = ("Too low! Try again.");
+    } else {
+       hint.textContent = "Too high! Try again.";
+    }
+
+    attemptsText.textContent = "Attempts: " + attempts;
 }
