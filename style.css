@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(to right,#a98ad3,#9aa9f4);
+    background: linear-gradient(to right,#ffc0cb,#ffd1dc);
     font-weight: bold;
 }
 
@@ -36,7 +36,7 @@ input {
 
 button {
     padding: 10px 20px;
-    background-color: #663399;
+    background-color: #ff1493;
     color: white;
     border: none;
     border-radius: 4px;
@@ -58,5 +58,5 @@ input:focus {
 
 button:hover {
     cursor: pointer;
-    background-color: #7f53ac;
+    background-color: #ff69b4;
 }
