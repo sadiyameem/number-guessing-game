@@ -18,3 +18,5 @@
 - I made this because I wanted to do something esay and quick
 
 # Challenges and Learned
+- A challenge was to use input functions
+- I learned how to use inputs and better understand them
