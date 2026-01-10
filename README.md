@@ -7,7 +7,7 @@
 - Submit button
 - Attempt counter
 - Box to type answer
-- Gives a reply for every answer or if it's correct
+- Gives a reply for every answer
 
 # How I made this
 - HTML
@@ -15,7 +15,7 @@
 - JavaScript
 
 # Motivation
-- I made this because I wanted to do something esay and quick
+- I made this because I wanted to do something easy and quick
 
 # Challenges and Learned
 - A challenge was to use input functions
